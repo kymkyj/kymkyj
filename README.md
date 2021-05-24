@@ -19,7 +19,7 @@ Thank you for watching with interest.
 - 🔭 I’m currently working on AJ ICT corp as a Web full-stack developer.
 - 🌱 I'm currently learning Back-end Skill, Algorithm.
 - 📝 I regularly write articles on [my blog](https://okdolmin.tistory.com/). 
-
+<br>
 
 📚 Technology Stack 📚 <br><br>
   <img src="https://img.shields.io/badge/-JAVA-orange"/>
