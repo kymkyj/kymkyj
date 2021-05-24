@@ -10,7 +10,7 @@
 
 
 I am a web full-stack developer from South Korea.
-I belong to a team responsible for corporate IT. However, it is not an IT company. 
+I belong to a team responsible for corporate IT. However, it is not an IT company. <br>
 So I am preparing to move to an IT company.
 I am interested in learning new skills. These days, I am studying springboot and JPA, and I plan to continue studying Node.js.
 
