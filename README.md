@@ -5,11 +5,9 @@
 </a>
 
 
-## Hello, I'm youngmin Kim!
+# Hello, I'm youngmin Kim!
 
-
-
-I am a web full-stack developer from South Korea.
+I'm growing developer.
 I belong to a team responsible for corporate IT. However, it is not an IT company. <br>
 So I am preparing to move to an IT company. <br>
 I am interested in learning new skills. These days, I am studying springboot and JPA, and I plan to continue studying Node.js. <br>
@@ -21,6 +19,24 @@ Thank you for watching with interest.
 - 🔭 I’m currently working on AJ ICT corp as a Web full-stack developer.
 - 🌱 I'm currently learning Back-end Skill, Algorithm.
 - 📝 I regularly write articles on [my blog](https://okdolmin.tistory.com/). 
+
+
+📚 Technology Stack 📚
+<p align="center">
+  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-MySQL-navy"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Flask-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-SpringBoot-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Nodejs-yellow"/>
+  <img src="https://img.shields.io/badge/-Vuejs-yellow"/>
+  <br>
+  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+</p>
 
 
 ## Github Stats  
