@@ -28,7 +28,7 @@ Thank you for watching with interest.
   <img style="margin: 10px" src="https://img.shields.io/badge/-JAVASCRIPT-yellow" height="25" />  
   <img style="margin: 10px" src="https://img.shields.io/badge/-SpringBoot-orange" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-MySQL-navy" height="25" />
-  <img style="margin: 10px" src="https://img.shields.io/badge/-spring-green" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/-Spring-green" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-jQuery-yellow" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-MsSQL-navy" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-Git-lightgrey" height="25" />
