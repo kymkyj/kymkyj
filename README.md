@@ -21,7 +21,7 @@ Thank you for watching with interest.
 - 📝 I regularly write articles on [my blog](https://okdolmin.tistory.com/). 
 
 
-📚 Technology Stack 📚 <br>
+📚 Technology Stack 📚 <br><br>
   <img src="https://img.shields.io/badge/-JAVA-orange"/>
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
