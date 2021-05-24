@@ -21,7 +21,7 @@ Thank you for watching with interest.
 - 📝 I regularly write articles on [my blog](https://okdolmin.tistory.com/). 
 <br>
 
-### 📚 Technology Stack <br><br>
+### 📚 Technology Stack <br>
   
 <div sttyle='float:left'>
   <img style="margin: 10px" src="https://img.shields.io/badge/-JAVA-orange" height="25" />  
@@ -31,7 +31,7 @@ Thank you for watching with interest.
   <img style="margin: 10px" src="https://img.shields.io/badge/-SpringBoot-orange" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-spring-green" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-jQuery-yellow" height="25" />
-  <img style="margin: 10px" src="https://img.shields.io/badge/-GIT-lightgrey" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/-Git-lightgrey" height="25" />
 </div>
 
 
