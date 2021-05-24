@@ -16,6 +16,13 @@ I am interested in learning new skills. These days, I am studying springboot and
 Thank you for watching with interest.
 
 
+### ✨ Summary
+
+- 🔭 I’m currently working on AJ ICT corp as a Web full-stack developer.
+- 🌱 I'm currently learning Back-end Skill, Algorithm.
+- 📝 I regularly write articles on [my blog](https://okdolmin.tistory.com/). 
+
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
