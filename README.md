@@ -22,14 +22,17 @@ Thank you for watching with interest.
 <br>
 
 ### 📚 Technology Stack <br><br>
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
-  <img src="https://img.shields.io/badge/-MySQL-navy"/>
-  <img src="https://img.shields.io/badge/-MsSQL-navy"/>
-  <img src="https://img.shields.io/badge/-SpringBoot-orange"/>
-  <img src="https://img.shields.io/badge/-spring-green"/>
-  <img src="https://img.shields.io/badge/-jQuery-yellow"/>
-  <img src="https://img.shields.io/badge/-git-lightgrey"/>
+  
+<div sttyle='float:left'>
+  <img style="margin: 10px" src="https://img.shields.io/badge/-JAVA-orange" height="25" />  
+  <img style="margin: 10px" src="https://img.shields.io/badge/-JAVASCRIPT-yellow" height="25" />  
+  <img style="margin: 10px" src="https://img.shields.io/badge/-MySQL-navy" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/-MsSQL-navy" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/-SpringBoot-orange" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/-spring-green" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/-jQuery-yellow" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/-GIT-lightgrey" height="25" />
+</div>
 
 
 ## Github Stats  
