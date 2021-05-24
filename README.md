@@ -22,21 +22,11 @@ Thank you for watching with interest.
 
 
 📚 Technology Stack 📚
-<p align="center">
-  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
-  <br>
-  <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Flask-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Nodejs-yellow"/>
-  <img src="https://img.shields.io/badge/-Vuejs-yellow"/>
-  <br>
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
-</p>
 
 
 ## Github Stats  
