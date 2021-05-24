@@ -26,7 +26,7 @@ Thank you for watching with interest.
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
   <img src="https://img.shields.io/badge/-SpringBoot-orange"/>
-  <img src="https://img.shields.io/badge/-Git-black"/>
+  <img src="https://img.shields.io/badge/-spring-green"/>
 
 
 ## Github Stats  
