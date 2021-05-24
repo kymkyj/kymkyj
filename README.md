@@ -21,12 +21,12 @@ Thank you for watching with interest.
 - 📝 I regularly write articles on [my blog](https://okdolmin.tistory.com/). 
 
 
-📚 Technology Stack 📚
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
+📚 Technology Stack 📚 <br>
+  <img src="https://img.shields.io/badge/-JAVA-orange"/>
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
-  <img src="https://img.shields.io/badge/-SpringBoot-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-SpringBoot-orange"/>
+  <img src="https://img.shields.io/badge/-Git-black"/>
 
 
 ## Github Stats  
